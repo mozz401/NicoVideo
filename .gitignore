@@ -1,0 +1,8 @@
+/.checkstyle
+/.settings
+/batch
+/lib
+/out
+/resource/_memo.txt
+/src/jp/nicovideo/live/_private
+/xsl
